@@ -6,10 +6,6 @@
 
 I build React Native applications with clean UI, smooth performance, and cross-platform consistency, backed by scalable MERN stack web solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white)](https://zain-ul-abideen-personal-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zain-ul-abideen-270581272/)
-[![Resume](https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://zain-ul-abideen-personal-portfolio.vercel.app/zain-ul-abideen-resume.pdf)
-
 </div>
 
 ---
@@ -44,30 +40,21 @@ I build React Native applications with clean UI, smooth performance, and cross-p
 
 ## 🚀 Featured Projects
 
-### 📝 [Nova Notes](https://github.com/zain100000/NovaNotes) — *Mobile App (2026)*
+### 📝 Nova Notes — *Mobile App (2026)*
 A high-performance, fully offline-capable app for local task management and daily note organization. Uses Redux Toolkit for predictable state and avoids unnecessary UI re-renders. Published on Google Play.
 
 `React Native` `Redux Toolkit` `Async Storage` `Offline First`
 
-[🔗 Code](https://github.com/zain100000/NovaNotes) · [📲 Google Play](https://play.google.com/store/apps/details?id=com.novanotes)
+[📲 Google Play](https://play.google.com/store/apps/details?id=com.novanotes)
 
 ---
 
-### 🐻‍❄️ [White Bear](https://github.com/zain100000/WhiteBear) — *Full-Stack Productivity Platform (2026)*
+### 🐻‍❄️ White Bear — *Full-Stack Productivity Platform (2026)*
 A minimalist all-in-one personal dashboard for daily lifestyle optimization: goal management, habit streak tracking, markdown-based reflection journals, todo checklists, and an AI-powered analytics suite for visualizing execution trends.
 
 `React Native` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `Redis` `REST APIs`
 
-[🔗 Code](https://github.com/zain100000/WhiteBear) · [📲 Google Play](https://play.google.com/store/apps/details?id=com.whitebears)
-
----
-
-### ☕ [Coffee Spot](https://github.com/zain100000/CoffeeSpot) — *Full-Stack Coffee Platform (2026)*
-A full-stack platform to discover coffees, place orders, and reach customer care. It includes a React Native CLI mobile app, a Node.js + Express REST API, and a React.js super admin panel for managing shops, users, and orders. Features JWT authentication, role-based access control, and MongoDB integration.
-
-`React Native CLI` `Redux` `Node.js` `Express.js` `MongoDB` `React.js` `JWT` `REST APIs`
-
-[🔗 Code](https://github.com/zain100000/CoffeeSpot)
+[📲 Google Play](https://play.google.com/store/apps/details?id=com.whitebears)
 
 ---
 
@@ -94,17 +81,6 @@ A full-stack platform to discover coffees, place orders, and reach customer care
 - **BSCS**, University of Sargodha: 2018 – 2022 (CGPA 3.27 / 4.00)
 - **ICS (Physics)**, The Reader Group of Colleges Sargodha: 2016 – 2018
 - **Matriculation**, Govt Comprehensive Boys High School Sargodha: 2014 – 2016
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=zain100000&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zain100000&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
