@@ -88,7 +88,7 @@ A minimalist all-in-one personal dashboard for daily lifestyle optimization: goa
 
 - 🌐 Portfolio: [zain-ul-abideen-personal-portfolio.vercel.app](https://zain-ul-abideen-personal-portfolio.vercel.app/)
 - 💼 LinkedIn: [Muhammad Zain Ul Abideen](https://www.linkedin.com/in/muhammad-zain-ul-abideen-270581272/)
-- 🐙 GitHub: [@zain100000](https://github.com/zain100000)
+- 🐙 GitHub: [@zain-the-loser10000](https://github.com/zain-the-loser10000)
 - 📘 Facebook: [Muhammad Zain Ul Abideen](https://www.facebook.com/muhammad.zain.ul.abideen.105909)
 - 📸 Instagram: [@zain_the_loser10000](https://www.instagram.com/zain_the_loser10000/)
 
