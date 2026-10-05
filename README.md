@@ -17,14 +17,7 @@ Building cross-platform iOS and Android apps with clean UI, offline-first design
 ---
 
 ## About Me
-
-- React Native developer with internship and remote experience building cross-platform apps and MERN stack web applications
-- Published two mobile apps on Google Play (links below)
-- Currently a React Native Intern at Spark Solutionz
-- Completing an MS in Computer Science at the University of Sargodha (final semester)
-- Focus: reusable components, clean architecture, Redux Toolkit state management, REST API integration
-- Open to remote and on-site junior React Native / MERN roles
-
+React Native Developer with hands-on experience building cross-platform iOS and Android applications and MERN stack applications. Skilled in UI/UX implementation, reusable components, RESTful APIs, Redux Toolkit, authentication, subscriptions, push notifications, Redis caching, background jobs, and third-party APIs. Built and published an offline-first mobile app and a full-stack personal growth platform using Node.js, Express.js, MongoDB, Stripe, Firebase, and Google Gemini API. Currently pursuing Masters in Computer Science.
 ---
 
 ## Tech Stack
