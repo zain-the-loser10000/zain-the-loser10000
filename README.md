@@ -80,7 +80,7 @@ A fully offline mobile app for task management and daily notes. Uses Redux Toolk
 - Manage app state with Redux and work in a Git-based sprint workflow
 
 **React Native Developer** · Kreative Nomads, Lahore (Remote) · Sep 2024 - Feb 2025
-- Built 15+ reusable cross-platform UI components, cutting new-screen development time by about 20%
+- Built 10+ reusable cross-platform UI components, cutting new-screen development time by about 20%
 - Converted complex UI/UX wireframes into responsive React Native interfaces
 - Integrated REST APIs and improved data-loading flows
 
