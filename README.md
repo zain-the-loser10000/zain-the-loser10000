@@ -10,7 +10,7 @@ Building cross-platform iOS and Android apps with clean UI, offline-first design
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zain-ul-abideen-270581272/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zabideen639@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zain-ul-abideen-personal-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zain-ul-abideen-personal-portfolio-three.vercel.app/)
 
 </div>
 
@@ -107,6 +107,6 @@ A fully offline mobile app for task management and daily notes. Uses Redux Toolk
 
 ## Let's Connect
 
-- Portfolio: [zain-ul-abideen-personal-portfolio.vercel.app](https://zain-ul-abideen-personal-portfolio.vercel.app/)
+- Portfolio: [zain-ul-abideen-personal-portfolio.vercel.app](https://zain-ul-abideen-personal-portfolio-three.vercel.app/)
 - LinkedIn: [Muhammad Zain-ul-Abideen](https://www.linkedin.com/in/muhammad-zain-ul-abideen-270581272/)
 - Email: [zabideen639@gmail.com](mailto:zabideen639@gmail.com)
