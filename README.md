@@ -61,7 +61,7 @@ A cross-platform app for habit tracking, goal milestones, secure journaling and 
 - Tiered Stripe subscriptions verified through server-side webhooks
 - Push notifications with Firebase Admin SDK (FCM)
 - Redis caching and scheduled background jobs for usage analytics
-- Passwordless OTP login, JWT authentication, encrypted on-device token storage
+- JWT authentication, encrypted on-device token storage
 
 `React Native` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `Redis` `Stripe` `Firebase` `Gemini API`
 
