@@ -17,8 +17,8 @@ Building cross-platform iOS and Android apps with clean UI, offline-first design
 ---
 
 ## About Me
+
 React Native Developer with hands-on experience building cross-platform iOS and Android applications and MERN stack applications. Skilled in UI/UX implementation, reusable components, RESTful APIs, Redux Toolkit, authentication, subscriptions, push notifications, Redis caching, background jobs, and third-party APIs. Built and published an offline-first mobile app and a full-stack personal growth platform using Node.js, Express.js, MongoDB, Stripe, Firebase, and Google Gemini API. Currently pursuing Masters in Computer Science.
----
 
 ## Tech Stack
 
