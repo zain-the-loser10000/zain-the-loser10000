@@ -81,7 +81,7 @@ A fully offline mobile app for task management and daily notes. Uses Redux Toolk
 
 ## Experience
 
-**React Native Intern** · Spark Solutionz, Sargodha (On-site) · Jul 2026 - Present
+**Mobile Application Developer** · Spark Solutionz, Sargodha (On-site) · Jul 2026 - Present
 - Build responsive React Native screens from UI/UX wireframes for iOS and Android
 - Integrate REST APIs and handle loading, error and empty states
 - Manage app state with Redux and work in a Git-based sprint workflow
